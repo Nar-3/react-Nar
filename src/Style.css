@@ -1,0 +1,52 @@
+.Course {
+    width: 250px;
+    height: 450px;
+    padding-top: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 9px 2px black;
+}
+
+.FCourses{
+    
+    margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 800px;
+    height: 80vh;
+    border-radius: 50PX;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+img{
+    max-width: 95%;
+    height: 80%;
+}
+
+h5 {
+    text-align: justify;
+}
+
+
+.Grandpaa {
+    border: 5px solid;
+    border-color: blueviolet;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.Parent {
+    border: 5px solid;
+    border-color: orange;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.Child {
+    border: 5px solid;
+    border-color: red;
+    margin: 10px;
+    padding: 10px;
+}
